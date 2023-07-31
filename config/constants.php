@@ -1,0 +1,33 @@
+<?php
+
+/**
+ * API http status codes... 
+ */
+return [
+    "HTTP_OK" => 200,
+    "HTTP_NO_DATA" => 201,
+    "DB_ERROR" => 202,
+    "DATA_NOT_MATCH" => 203,
+    "NO_DATA" => 204,
+    "ACCOUNT_PENDING" => 205,
+    "ACCOUNT_NOT_ACTIVE" => 206,
+    "LINK_EXPIRED" => 207,
+    "USER_LOGOUT" => 209,
+    "HTTP_BAD_REQUEST" => 400,
+    "UNAUTHORIZED_ACCESS" => 401,
+    "TOKEN_EXPIRE" => 402,
+    "INVALIDE_TOKEN" => 403,
+    "METHOD_NOT_ALLOWED" => 405,
+    "NOT_ACCEPTABLE" => 406,
+    "INVALIDE_VERIFICATION_CODE" => 407,
+    "RESOURCE_ALREADY_EXIST" => 409,
+    "VALIDATION_ERROR" => 422,
+    "LOGIN_TIME_OUT" => 440,
+    "MAIL_SENDING_FAIL" => 450,
+    "TOKEN_REQUIRED" => 499,
+    "INTERNAL_SERVER_ERROR" => 500,
+    "BAD_GATEWAY" => 502,
+    "GATEWAY_TIMEOUT" => 504,
+    "GENERAL_ERROR" => 1000,
+];
+
