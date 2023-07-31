@@ -1,0 +1,221 @@
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-BlackItalicSC.eot');
+    src: url('Whitney-BlackItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-BlackItalicSC.woff2') format('woff2'),
+        url('Whitney-BlackItalicSC.woff') format('woff'),
+        url('Whitney-BlackItalicSC.ttf') format('truetype'),
+        url('Whitney-BlackItalicSC.svg#Whitney-BlackItalicSC') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-LightSC.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-LightSC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-LightSC.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-LightSC.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-LightSC.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-LightSC.svg#Whitney-LightSC') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-MediumSC.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-MediumSC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-MediumSC.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-MediumSC.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-MediumSC.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-MediumSC.svg#Whitney-MediumSC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-Light.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-Light.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/../fonts/Whitney Typeface/../fonts/Whitney Typeface/Whitney-Light.woff') format('woff'),
+        url('../fonts/Whitney Typeface/../fonts/Whitney Typeface/Whitney-Light.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-Light.svg#Whitney-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '../fonts/Whitney Typeface/Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-BookSC.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-BookSC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-BookSC.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-BookSC.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-BookSC.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-BookSC.svg#Whitney-BookSC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-SemiboldItalic.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalic.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalic.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalic.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalic.svg#Whitney-SemiboldItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-LightItalic.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-LightItalic.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-LightItalic.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-LightItalic.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-LightItalic.svg#Whitney-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-BookItalic.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-BookItalic.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-BookItalic.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-BookItalic.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-BookItalic.svg#Whitney-BookItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-SemiboldItalicSC.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-SemiboldItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalicSC.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalicSC.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalicSC.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-SemiboldItalicSC.svg#Whitney-SemiboldItalicSC') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-BlackSC.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-BlackSC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-BlackSC.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-BlackSC.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-BlackSC.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-BlackSC.svg#Whitney-BlackSC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-MediumItalicSC.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-MediumItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalicSC.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalicSC.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalicSC.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalicSC.svg#Whitney-MediumItalicSC') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-Bold.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-Bold.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-Bold.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-Bold.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-Bold.svg#Whitney-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-Medium.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-Medium.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-Medium.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-Medium.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-Medium.svg#Whitney-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-Book.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-Book.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-Book.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-Book.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-Book.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-Book.svg#Whitney-Book') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-MediumItalic.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalic.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalic.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-MediumItalic.svg#Whitney-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-BlackItalic.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-BlackItalic.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-BlackItalic.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-BlackItalic.svg#Whitney-BlackItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-BoldItalicSC.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-BoldItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-BoldItalicSC.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-BoldItalicSC.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-BoldItalicSC.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-BoldItalicSC.svg#Whitney-BoldItalicSC') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('../fonts/Whitney Typeface/Whitney-Semibold.eot');
+    src: url('../fonts/Whitney Typeface/Whitney-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Whitney Typeface/Whitney-Semibold.woff2') format('woff2'),
+        url('../fonts/Whitney Typeface/Whitney-Semibold.woff') format('woff'),
+        url('../fonts/Whitney Typeface/Whitney-Semibold.ttf') format('truetype'),
+        url('../fonts/Whitney Typeface/Whitney-Semibold.svg#Whitney-Semibold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+body{
+    font-family: Whitney !important;
+}

@@ -1,0 +1,216 @@
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-BlackItalicSC.eot');
+    src: url('Whitney-BlackItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-BlackItalicSC.woff2') format('woff2'),
+        url('Whitney-BlackItalicSC.woff') format('woff'),
+        url('Whitney-BlackItalicSC.ttf') format('truetype'),
+        url('Whitney-BlackItalicSC.svg#Whitney-BlackItalicSC') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-LightSC.eot');
+    src: url('Whitney-LightSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-LightSC.woff2') format('woff2'),
+        url('Whitney-LightSC.woff') format('woff'),
+        url('Whitney-LightSC.ttf') format('truetype'),
+        url('Whitney-LightSC.svg#Whitney-LightSC') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-MediumSC.eot');
+    src: url('Whitney-MediumSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-MediumSC.woff2') format('woff2'),
+        url('Whitney-MediumSC.woff') format('woff'),
+        url('Whitney-MediumSC.ttf') format('truetype'),
+        url('Whitney-MediumSC.svg#Whitney-MediumSC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-Light.eot');
+    src: url('Whitney-Light.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-Light.woff2') format('woff2'),
+        url('Whitney-Light.woff') format('woff'),
+        url('Whitney-Light.ttf') format('truetype'),
+        url('Whitney-Light.svg#Whitney-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-BookSC.eot');
+    src: url('Whitney-BookSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-BookSC.woff2') format('woff2'),
+        url('Whitney-BookSC.woff') format('woff'),
+        url('Whitney-BookSC.ttf') format('truetype'),
+        url('Whitney-BookSC.svg#Whitney-BookSC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-SemiboldItalic.eot');
+    src: url('Whitney-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-SemiboldItalic.woff2') format('woff2'),
+        url('Whitney-SemiboldItalic.woff') format('woff'),
+        url('Whitney-SemiboldItalic.ttf') format('truetype'),
+        url('Whitney-SemiboldItalic.svg#Whitney-SemiboldItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-LightItalic.eot');
+    src: url('Whitney-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-LightItalic.woff2') format('woff2'),
+        url('Whitney-LightItalic.woff') format('woff'),
+        url('Whitney-LightItalic.ttf') format('truetype'),
+        url('Whitney-LightItalic.svg#Whitney-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-BookItalic.eot');
+    src: url('Whitney-BookItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-BookItalic.woff2') format('woff2'),
+        url('Whitney-BookItalic.woff') format('woff'),
+        url('Whitney-BookItalic.ttf') format('truetype'),
+        url('Whitney-BookItalic.svg#Whitney-BookItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-SemiboldItalicSC.eot');
+    src: url('Whitney-SemiboldItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-SemiboldItalicSC.woff2') format('woff2'),
+        url('Whitney-SemiboldItalicSC.woff') format('woff'),
+        url('Whitney-SemiboldItalicSC.ttf') format('truetype'),
+        url('Whitney-SemiboldItalicSC.svg#Whitney-SemiboldItalicSC') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-BlackSC.eot');
+    src: url('Whitney-BlackSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-BlackSC.woff2') format('woff2'),
+        url('Whitney-BlackSC.woff') format('woff'),
+        url('Whitney-BlackSC.ttf') format('truetype'),
+        url('Whitney-BlackSC.svg#Whitney-BlackSC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-MediumItalicSC.eot');
+    src: url('Whitney-MediumItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-MediumItalicSC.woff2') format('woff2'),
+        url('Whitney-MediumItalicSC.woff') format('woff'),
+        url('Whitney-MediumItalicSC.ttf') format('truetype'),
+        url('Whitney-MediumItalicSC.svg#Whitney-MediumItalicSC') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-Bold.eot');
+    src: url('Whitney-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-Bold.woff2') format('woff2'),
+        url('Whitney-Bold.woff') format('woff'),
+        url('Whitney-Bold.ttf') format('truetype'),
+        url('Whitney-Bold.svg#Whitney-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-Medium.eot');
+    src: url('Whitney-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-Medium.woff2') format('woff2'),
+        url('Whitney-Medium.woff') format('woff'),
+        url('Whitney-Medium.ttf') format('truetype'),
+        url('Whitney-Medium.svg#Whitney-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-Book.eot');
+    src: url('Whitney-Book.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-Book.woff2') format('woff2'),
+        url('Whitney-Book.woff') format('woff'),
+        url('Whitney-Book.ttf') format('truetype'),
+        url('Whitney-Book.svg#Whitney-Book') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-MediumItalic.eot');
+    src: url('Whitney-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-MediumItalic.woff2') format('woff2'),
+        url('Whitney-MediumItalic.woff') format('woff'),
+        url('Whitney-MediumItalic.ttf') format('truetype'),
+        url('Whitney-MediumItalic.svg#Whitney-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-BlackItalic.eot');
+    src: url('Whitney-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-BlackItalic.woff2') format('woff2'),
+        url('Whitney-BlackItalic.woff') format('woff'),
+        url('Whitney-BlackItalic.ttf') format('truetype'),
+        url('Whitney-BlackItalic.svg#Whitney-BlackItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-BoldItalicSC.eot');
+    src: url('Whitney-BoldItalicSC.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-BoldItalicSC.woff2') format('woff2'),
+        url('Whitney-BoldItalicSC.woff') format('woff'),
+        url('Whitney-BoldItalicSC.ttf') format('truetype'),
+        url('Whitney-BoldItalicSC.svg#Whitney-BoldItalicSC') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Whitney';
+    src: url('Whitney-Semibold.eot');
+    src: url('Whitney-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('Whitney-Semibold.woff2') format('woff2'),
+        url('Whitney-Semibold.woff') format('woff'),
+        url('Whitney-Semibold.ttf') format('truetype'),
+        url('Whitney-Semibold.svg#Whitney-Semibold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+

@@ -1,0 +1,220 @@
+
+
+/*landingpage starts here*/
+
+	.landingPageBannerSec{
+		background-image: url(../images/landingCoverPage.png);
+        background-position: top center;
+		background-size: cover;
+		background-repeat: no-repeat;
+	}
+	.bannerMainSec{
+		width: 920px;
+		margin: auto;
+	}
+	.bannerHeader{
+		padding: 50px 0 0;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		flex-flow: wrap;
+	}
+	.bannerHeader div a:nth-of-type(1){
+		color: #FFFFFF;
+		font-size: 18px;
+		font-weight: bold;
+		letter-spacing: 1.5px;
+		line-height: 21px;
+		border-radius: 22px;
+		background-color: #3A89B4;
+		padding: 13px 48px;
+		margin:0 59px;
+		display: inline-block;
+	}
+	.bannerHeader div a:nth-of-type(2){
+		color: #4098C8;
+		font-size: 22px;
+		font-weight: bold;
+		letter-spacing: 1.83px;
+		line-height: 25px;
+	}
+	.bannerHeading{
+		color: #012D46;
+		font-size: 52px;
+		font-weight: bold;
+		line-height: 60px;
+		text-align: center;
+		padding: 195px 0 36px;
+	}
+	.bannerContent{
+		color: #012D46;
+		font-size: 36px;
+		font-weight: 300;
+		line-height: 40px;
+		text-align: center;
+	}
+	.bannerDescription{
+		color: rgba(1,45,70,0.8);
+		font-size: 18px;
+		font-weight: 600;
+		line-height: 30px;
+		text-align: center;
+		padding:74px 0 320px;
+	}
+	.bannerBoxHeading{
+		color: #012D46;
+		font-size: 36px;
+		font-weight: 300;
+		letter-spacing: 1px;
+		line-height: 41px;
+		padding: 7px 0 100px;
+		text-align: center;
+	}
+	.bannerBoxSec{
+		width: 1030px;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		flex-flow: wrap;
+		margin: 0 auto 90px;
+	}
+	.bannerChildBox{
+		padding: 60px 6px 32px;
+		margin: 0 20px 50px;
+		border-radius: 3px;
+		background: linear-gradient(180deg, #025A7B 0%, #012D46 100%);
+		width: 300px;
+		height: 367px;
+		position: relative;
+		box-shadow: -10px 10px 17px 0px rgba(0,0,0,0.4);
+	}
+	.childBoxHeading{
+		color: #FFFFFF;
+		font-size: 28px;
+		font-weight: bold;
+		line-height: 43px;
+		text-align: center;
+	}
+	.childBoxDivider{
+		height: 2px;
+		width: 112px;
+		background-color: #FFFFFF;
+		margin: 0 auto 24px;
+	}
+	.childBoxContent{
+		color: #FFFFFF;
+		font-size: 18px;
+		font-weight: 300;
+		line-height: 21px;
+		text-align: center;
+	}
+	.childBoxLink{
+		color: #9EDDFF;
+		font-size: 18px;
+		font-weight: 500;
+		line-height: 21px;
+		display: flex;
+		align-items: center;
+		position: absolute;
+		bottom: 32px;
+		left: 50%;
+		transform: translateX(-50%);
+		white-space: nowrap;
+	}
+	.childBoxLink span{
+		font-size: 30px;
+	}
+	.bannerContent span,
+	.bannerBoxHeading span{
+		font-weight: bold;
+	}
+	.footer{
+	    background-color: rgba(170,170,170,0.5);
+	    display: flex;
+	    align-items: center;
+	    padding: 0 90px;
+	    margin-bottom: 0;
+	}
+	.footer img{
+		width: 176px;
+	}
+	.footer div p{
+		padding-left: 172px;
+	    color: #404040;
+	    font-size: 12px;
+	    font-weight: 300;
+	    line-height: 13px;
+	    margin-bottom: 10px;
+	}
+	.footerParaLinks {
+		padding-right: 0px;
+	}
+	.footerParaLinks a{
+		margin-right: 10px;
+	}
+
+	@media screen and (max-width: 1050px){
+	    .bannerBoxSec{
+		    width: 90%;
+		}
+	    .bannerBoxSec{
+		    justify-content: space-around;
+		}
+	}
+	@media screen and (max-width: 950px){
+	    .bannerMainSec{
+		    width: 90%;
+		}
+	}
+	@media screen and (max-width: 1150px){
+		.footer div p{
+			padding-left: 80px;
+		}
+	}
+	@media screen and (max-width: 860px){
+		.footer{
+			padding: 0 30px;
+		}
+		.footer img{
+			width: 26%;
+			margin-right: 20px;
+		}
+		.footer div p{
+			padding-left: 0;
+		}
+	}
+	@media screen and (max-width: 650px){
+		.footer div p{
+		    font-size: 10px;
+		    line-height: 11px;
+		}
+		.footer{
+		    padding: 0 10px;
+		}
+	}
+	@media screen and (max-width: 600px){
+		.bannerHeader div{
+			width: 100%;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            margin-top: 30px;
+		}
+        .bannerHeading{
+		    padding: 100px 0 36px;
+        }
+        .bannerHeader div a:nth-of-type(1){
+        	margin: 0 35px 0 0;
+        }
+	}
+	@media screen and (max-width: 360px){
+	    .bannerHeader div a:nth-of-type(1){
+		    font-size: 15px;
+		    line-height: 18px;
+		    padding: 13px 40px;
+	    }
+	    .bannerHeader div a:nth-of-type(2){
+		    font-size: 19px;
+		    line-height: 22px;
+	    }
+	}
